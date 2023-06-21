@@ -33,6 +33,17 @@
 
 ## Exercise
 
+- Walking
+- Swimming
+- Running
+
+
+## Check-Ups
+
+
+## Devices
+
+
 
 
 
