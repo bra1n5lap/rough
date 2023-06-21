@@ -1,10 +1,9 @@
 # Health
 
 ## Food
-Monday
 
-Tue
-sday
+Monday
+Tuesday 
 Wednesday
 Thursday
 Friday
