@@ -3,9 +3,10 @@
 Let's do this, one by one!
 Without planning & by just executing!
 
-- Health
-- Wealth
-- Travel
-- Education 
-- Career
-- Entertainment 
+- [Health](health)
+- [Wealth](wealth)
+- [Travel](travel)
+- [Education](education)
+- [Career](career)
+- [Entertainment](entertainment)
+- [People](people)
