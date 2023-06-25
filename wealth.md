@@ -11,6 +11,10 @@
 
 ## Insurance
 
+## Loan
+- EMI Calculator
+- Magic of EMI
+
 
 ## General Tips
 Keep all documents, slips together on cloud
