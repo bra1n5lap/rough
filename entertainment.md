@@ -14,3 +14,5 @@ Current and Upcoming Movies/Songs/TV Shows API
 
 
 ## Tools
+
+## News
